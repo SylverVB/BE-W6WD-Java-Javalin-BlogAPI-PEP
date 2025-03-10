@@ -1,0 +1,52 @@
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDEs
+# IntelliJ IDEA
+/.idea/
+/*.iml
+/out/
+
+# Eclipse
+/.classpath
+/.project
+/.settings/
+/target/
+
+# VS Code
+/.vscode/
+
+# Build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# Java-specific files
+*.log
+*.ctxt
+hs_err_pid*
+replay_pid*
+
+# H2 database files
+*.h2.db
+*.mv.db
+*.trace.db
+
+# H2 database folder
+/h2/
+
+# Environmental configuration
+.env
